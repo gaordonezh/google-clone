@@ -177,5 +177,8 @@ footer .description a:hover{
     .main-input input{
         width: 70vw;
     }
+    .main-buttons{
+        margin-bottom: 0;
+    }
     
 }
